@@ -11,6 +11,8 @@ This repository presents key statistics from the English Premier League, includi
 - 📈 Visual insights (PNG images)
 - 📊 Raw and processed data (CSV/Excel)
 - 📄 Technical analysis and explanations
+- ![premierleaguestat3.png](C:\Users\Yider Valencia Muñoz\Downloads\Premier league statics)
+
 
 ## Tools Used
 - Microsoft Power BI
