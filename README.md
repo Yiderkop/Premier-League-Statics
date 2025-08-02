@@ -1,28 +1,3 @@
-# Premier League Stats 📊⚽
-
-This repository presents key statistics from the English Premier League, including:
-
-- Top goalscorers and assists
-- Team performance comparison
-- Match outcomes and analytics
-- Visual dashboards with Power BI
-
-## Contents
-- 📈 Visual insights (PNG images)
-- 📊 Raw and processed data (CSV/Excel)
-- 📄 Technical analysis and explanations
-
-
-
-## Tools Used
-- Microsoft Power BI
-- Microsoft Excel
-- SQL Server
-
-## Author
-**Yider Valencia**  
-*Data Analyst & Football Enthusiast*
-
----
-
-> For data lovers and football fans who seek insights beyond the scoreboard.
+![premier_league_statics](imagepremierstat3.png)  
+![premier_league_statics](imagepremierstat2.png)  
+![premier_league_statics](imagepremierstat1.png)
